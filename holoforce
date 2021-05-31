@@ -8,7 +8,7 @@
     "1": {
       "title": "Test - not actual chapter",
       "groups": {
-        " ": "/proxy/api/imgur/chapter/8UaGhaj/"
+        "official": "/proxy/api/imgur/chapter/8UaGhaj/"
       },
       "last_updated": "1622487943"
     }
