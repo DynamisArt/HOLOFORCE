@@ -6,11 +6,11 @@
   "cover": "https://i.imgur.com/XfSG7h5.png",
   "chapters": {
     "1": {
-      "title": "Test - not actual chapter",
+      "title": "Ch. 1 - Gawr Gura",
       "groups": {
-        "": "/proxy/api/imgur/chapter/8UaGhaj/"
+        "": "/proxy/api/imgur/chapter/UvtpWCx/"
       },
-      "last_updated": "1622487943"
+      "last_updated": "1624726700"
     }
   }
 }
