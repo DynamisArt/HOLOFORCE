@@ -13,11 +13,18 @@
       "last_updated": "1624726700"
     },
     "2": {
-      "title": "HoloEN",
+      "title": "HoloEN (Part 1)",
       "groups": {
         "": "/proxy/api/imgur/chapter/Yv3GiwT/"
       },
       "last_updated": "1628293681"
+    },
+    "2.5": {
+      "title": "HoloEN (Part 2)",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/wmWZAUF/"
+      },
+      "last_updated": "1636315187"
     }
   }
 }
